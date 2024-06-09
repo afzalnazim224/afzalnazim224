@@ -1,4 +1,4 @@
-## Hi, I'm Afzal Nazim
+## Hi, I'm Muhammad Afzal Nazim
 
 [![ContactMe](https://img.shields.io/badge/ContactMe-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muhammadafzalnazim@gmail.com)](mailto:muhammadafzalnazim@gmail.com)
 
